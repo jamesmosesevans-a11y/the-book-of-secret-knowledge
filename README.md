@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
+<p align="center"> Moses janes evans
+  <a href="https://github.com/moses James evans9 /the-book-of-secret-knowledge">
+    <img src="https//the-book-of-secret-knowledge//master/static/img/the-book-of-secret-knowledge alt="Master">
   </a>
 </p>
 
@@ -11,8 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+  <a href="https://github.com/trimstray/the-book-of-secr
   </a>
   <a href="LICENSE.md">
     <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
