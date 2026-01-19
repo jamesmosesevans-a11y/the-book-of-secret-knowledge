@@ -1,4 +1,4 @@
-<p align="center"> Moses janes evans
+<p align="cent
   <a href="https://github.com/moses James evans9 /the-book-of-secret-knowledge">
     <img src="https//the-book-of-secret-knowledge//master/static/img/the-book-of-secret-knowledge alt="Master">
   </a>
